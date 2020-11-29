@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/License-MIT-blue)
+![GitHub contributors](https://img.shields.io/github/contributors/nsde/DashKing)
+
 # DashKing
 ![DashKing Logo](icon.png)
 
